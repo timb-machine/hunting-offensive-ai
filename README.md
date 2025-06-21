@@ -4,7 +4,7 @@
 
 [Rolling 2 day view of updates from this repo](https://github.com/timb-machine/offensive-ai/compare/master@%7B2day%7D...master)
 
-## Yara rules
+## YARA rules
 
 Running the rules:
 
