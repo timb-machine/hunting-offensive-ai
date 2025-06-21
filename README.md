@@ -9,3 +9,7 @@
 Running the rules:
 
 * ```yara -r yara/personal-malware-bazaar/dependsonpythonailib.yara /path/to/check```
+
+### Personal
+
+* dependsonpythonailib.yara - Hunts for references to Python AI libraries
